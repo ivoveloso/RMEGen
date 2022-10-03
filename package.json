@@ -1,0 +1,23 @@
+{
+  "name": "rmegen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivoveloso/RMEGen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivoveloso/RMEGen/issues"
+  },
+  "homepage": "https://github.com/ivoveloso/RMEGen#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
